@@ -1,0 +1,36 @@
+async function query() {
+    try {
+        //加载网络连接配置
+        const ccpPath = path.resolve(__dirname, '..', '..', 'hello','first-network', 'connection-org1.json');
+        // 将文件解析成json字符串
+        const ccp = JSON.parse(fs.readFileSync(ccpPath, 'utf8'));
+        // 指点wallet地址
+        const walletPath = path.join(process.cwd(), 'wallet');
+        //加载wallet
+        const wallet = await Wallets.newFileSystemWallet(walletPath);
+        // 获取wallet中的用户
+        const identity = await wallet.get('user1');
+        if (!identity) {
+            console.log('An identity for the user "user1" does not exist in the wallet');
+            console.log('Run the registerUser.js application before retrying');
+            return;
+        }
+        // 创建一个新连接
+        const gateway = new Gateway();
+        // 连接网络
+        await gateway.connect(ccp, { wallet, identity: 'user1', discovery: { enabled: true, asLocalhost: true } });
+        // 选择想要连接的通道channel
+        const network = await gateway.getNetwork('grade');
+        // 获取通道中的只能合约
+        const contract = network.getContract('grades');
+        //调用evaluateTransaction()方法
+        const result = await contract.evaluateTransaction('QueryAllGrades');
+        //中断连接
+        await gateway.disconnect();
+        //返回结果
+        return result.toString();
+    } catch (error) {
+        console.error(`Failed to evaluate transaction: ${error}`);
+        process.exit(1);
+    }
+}

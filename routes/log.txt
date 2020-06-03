@@ -1,0 +1,193 @@
+Vendoring Go dependencies ...
+~/project/hello/chaincode/fabcar/go ~/project/hello/routes
+~/project/hello/routes
+Finished vendoring Go dependencies
+~/project/hello/first-network ~/project/hello/routes
+Stopping for channel 'mychannel' with CLI timeout of '10' seconds and CLI delay of '3' seconds
+proceeding ...
+91b4066747c8
+11f3c3629f64
+97686b2be89b
+4e3103636fd2
+Untagged: dev-peer1.org2.example.com-gradev1-2e8115893af030d85c66eefb6825aa540216ac0e81c705049f9e6ee918a516c5-7883abe33920fa71f78386bf52d42aa6512823ff354bbdb768ff84d511e40ab5:latest
+Deleted: sha256:23eefb90d32405a3b0151f47b76ff873b7e0b6ac08183e683de820c5e31337f8
+Deleted: sha256:132bc1796c130864dfbf6ec0efc42731170bd62f0ce73c853de9bfda5035ae00
+Deleted: sha256:c9948b6a9e33f23cf9c5657414fca1ecc295933e4e6b715ad90fe7d7c37b8bda
+Deleted: sha256:e4de7c1439a821d0e232e3840f75687bfdc52af57872ee4d456f0313c4f71063
+Untagged: dev-peer1.org2.example.com-studentv1-fdc302c90007da3572403e4ba23c3a637bf92bd99b5e511493a9936f476a0aa5-75ef8fd14c9ff8841f317e3961f86d2f50429524839fd3655e1f7101ee138ab7:latest
+Deleted: sha256:305f7cc4039524b05b8c855e4cc9f0ab2541ee63a2ddcb614f3a2a8704f235f2
+Deleted: sha256:a5f0c8013b399a64d8fd0de87a465a9970cea1c789fda53f9c2eac3394f5905c
+Deleted: sha256:d2aa6d8f1233958ad9da09b1dca7dbb111cdca1d7846ad1b85dc0e390fb39c11
+Deleted: sha256:27b7a5325803cdaebcc9124592526e3dc6197218e70cfbcdd734cfeb79593847
+Untagged: dev-peer0.org2.example.com-gradev1-2e8115893af030d85c66eefb6825aa540216ac0e81c705049f9e6ee918a516c5-1415b35c80c5fb98803d209b965adab1e67634cd9de0a5b5032e27589e239378:latest
+Deleted: sha256:2a4085d96e6c108eb325b90947990e7c5f93322191dd5a3d17e34bacaa7186e8
+Deleted: sha256:df4a59e464329fd96d5f313f9a0a34a33780a1b5088de06b6a6f7754d8633bea
+Deleted: sha256:57ab19b3dfc2c4c228a2a22f8f253784a5872148148aa630793e0dfa61ac18af
+Deleted: sha256:2968a270d58dbcdf03fbca2b1b1f37df24307424191542c1f41d6d3461033969
+Untagged: dev-peer0.org2.example.com-studentv1-fdc302c90007da3572403e4ba23c3a637bf92bd99b5e511493a9936f476a0aa5-640d95330598f0ab90b3f64d8c66d0c6ed49502d2b24c356c64e70028498d1cb:latest
+Deleted: sha256:3a220c246b53a684a774d84cf0d28734be10e661d4b0b2ca582593d10c1c489f
+Deleted: sha256:27f17f5de77a03b7afa5a055ee818ec7ea2128a10889a12238f2c86e8d4408c3
+Deleted: sha256:4a52b36befc54c3c8a9fc24228ebcd60f5fc19444dcec6d4e0299b6058068375
+Deleted: sha256:968fd9feee510c7d568f67e87bb681f2ec876ddabd29019cad6c894f52d2cee6
+Untagged: dev-peer1.org1.example.com-gradev1-2e8115893af030d85c66eefb6825aa540216ac0e81c705049f9e6ee918a516c5-0c6883d3bf921afee5cca393d440bd1a0081683c1140b0bfa815ce9bea387d17:latest
+Deleted: sha256:9c7eae743c81448ffa811dfd25f228774914ec779c7cd31c447c36b987896179
+Deleted: sha256:122393c47856ff6b3fd955889d85071c02aedb96476b4c56d00a03f0168257d9
+Deleted: sha256:89289cfdfb18357e8fadffa0d9d184cb04d9569dffe0b25038d49e8e523179ad
+Deleted: sha256:0cb01b973ec43215c8400ec19c3f30109abd1a0d4490e56798b2420ffad6ccc9
+Untagged: dev-peer1.org1.example.com-studentv1-fdc302c90007da3572403e4ba23c3a637bf92bd99b5e511493a9936f476a0aa5-53fa6170fac384ba387f456fcd2ccb939c8421c0ee76639697b5176041ab59f2:latest
+Deleted: sha256:03f82b9db54eae375b0c20879e8986aad0acc235957a39f18c7e4a6afb17c85c
+Deleted: sha256:25092d870aa1174c860051015087d20d66b71c0c3e09ce03a4a91ee409727d2d
+Deleted: sha256:3ae5d7115e42b546668bb20507686ce5855c5518758861050e0e5bae7b7adef7
+Deleted: sha256:591b62bbe961564e488c0ef147737d9c58fa522792c75975b454cc1038770c64
+Untagged: dev-peer0.org1.example.com-gradev1-2e8115893af030d85c66eefb6825aa540216ac0e81c705049f9e6ee918a516c5-d877bc951d0d52a1a8e9ba771c3d6396eee3bf70288671837b9377dd2e8ac9a8:latest
+Deleted: sha256:bb20c56262fe84e169729fdadcc7408b952d185697514b6c353eac2861189a56
+Deleted: sha256:80f5548ba5d94ac0f016b3922660d2cf4ee6ace419f6437fdf42239176132da7
+Deleted: sha256:69f96aa4c6c367fecb5bc87fa81ff45327e7a117620f5ca87b7dc738a2dd007b
+Deleted: sha256:6f83fb4874cfaacfbdc88497c4e7f2da2dc860618d936308d205a49a8fb4325c
+Untagged: dev-peer0.org1.example.com-studentv1-fdc302c90007da3572403e4ba23c3a637bf92bd99b5e511493a9936f476a0aa5-d54484cb014350b01c933281362f20bc7dae427ad1ffe46c7e29b74c7619c34c:latest
+Deleted: sha256:1b0b400e2ca49dfb574615b55c4062f0bf54ca5f906032b74c51bbfb25da1dd6
+Deleted: sha256:a62dee17152dc3c410fa3995e1d5e8bf345102a4f96ff72a7634ad2ace659a0e
+Deleted: sha256:1107f2f25349023ada26dc161e5c5673acd5d4c3570479fe0eca7ec2178c40ce
+Deleted: sha256:0b57fb089b9fdfcb75b4d8dd6659998eef2e17d11259e8bae5578167a4c752ee
+
+Starting for channel 'mychannel' with CLI timeout of '10' seconds and CLI delay of '3' seconds and using database 'couchdb'
+proceeding ...
+LOCAL_VERSION=2.0.0
+DOCKER_IMAGE_VERSION=2.0.0
+/home/zjc/project/hello/first-network/../bin/cryptogen
+
+##########################################################
+##### Generate certificates using cryptogen tool #########
+##########################################################
+org1.example.com
+org2.example.com
+
+Generate CCP files for Org1 and Org2
+/home/zjc/project/hello/first-network/../bin/configtxgen
+##########################################################
+#########  Generating Orderer Genesis block ##############
+##########################################################
+
+#################################################################
+### Generating channel configuration transaction 'channel.tx' ###
+#################################################################
+
+#################################################################
+#######    Generating anchor peer update for Org1MSP   ##########
+#################################################################
+
+#################################################################
+#######    Generating anchor peer update for Org2MSP   ##########
+#################################################################
+
+Creating network "net_byfn" with the default driver
+Creating volume "net_orderer.example.com" with default driver
+Creating volume "net_peer0.org1.example.com" with default driver
+Creating volume "net_peer1.org1.example.com" with default driver
+Creating volume "net_peer0.org2.example.com" with default driver
+Creating volume "net_peer1.org2.example.com" with default driver
+Creating volume "net_orderer2.example.com" with default driver
+Creating volume "net_orderer3.example.com" with default driver
+Creating volume "net_orderer4.example.com" with default driver
+Creating volume "net_orderer5.example.com" with default driver
+Creating couchdb3 ... 
+Creating ca_peerOrg2 ... 
+Creating couchdb0    ... 
+Creating orderer3.example.com ... 
+Creating couchdb1             ... 
+Creating orderer.example.com  ... 
+Creating orderer2.example.com ... 
+Creating couchdb2             ... 
+Creating orderer5.example.com ... 
+Creating ca_peerOrg1          ... 
+Creating orderer4.example.com ... 
+[11A[2KCreating couchdb3             ... [32mdone[0m[11BCreating peer1.org2.example.com ... 
+[3A[2KCreating ca_peerOrg1            ... [32mdone[0m[3B[11A[2KCreating ca_peerOrg2            ... [32mdone[0m[11B[4A[2KCreating orderer5.example.com   ... [32mdone[0m[4B[7A[2KCreating orderer.example.com    ... [32mdone[0m[7B[10A[2KCreating couchdb0               ... [32mdone[0m[10BCreating peer0.org1.example.com ... 
+[2A[2KCreating peer1.org2.example.com ... [32mdone[0m[2B[7A[2KCreating orderer2.example.com   ... [32mdone[0m[7B[10A[2KCreating orderer3.example.com   ... [32mdone[0m[10B[9A[2KCreating couchdb1               ... [32mdone[0m[9BCreating peer1.org1.example.com ... 
+[7A[2KCreating couchdb2               ... [32mdone[0m[7BCreating peer0.org2.example.com ... 
+[5A[2KCreating orderer4.example.com   ... [32mdone[0m[5B[2A[2KCreating peer1.org1.example.com ... [32mdone[0m[2B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[3A[2KCreating peer0.org1.example.com ... [32mdone[0m[3BCreating cli                    ... 
+[1A[2KCreating cli                    ... [32mdone[0m[1BCONTAINER ID        IMAGE                               COMMAND                   CREATED             STATUS                     PORTS                                        NAMES
+2cf08aa51056        hyperledger/fabric-tools:latest     "/bin/bash"               1 second ago        Up Less than a second                                                   cli
+9c5ee49de178        hyperledger/fabric-peer:latest      "peer node start"         3 seconds ago       Up 1 second                7051/tcp, 0.0.0.0:9051->9051/tcp             peer0.org2.example.com
+7d17299cccc8        hyperledger/fabric-peer:latest      "peer node start"         4 seconds ago       Up 1 second                7051/tcp, 0.0.0.0:8051->8051/tcp             peer1.org1.example.com
+6673af339f32        hyperledger/fabric-peer:latest      "peer node start"         5 seconds ago       Up 1 second                0.0.0.0:7051->7051/tcp                       peer0.org1.example.com
+cbf0ec783277        hyperledger/fabric-peer:latest      "peer node start"         7 seconds ago       Up 4 seconds               7051/tcp, 0.0.0.0:10051->10051/tcp           peer1.org2.example.com
+c03b6c97958b        hyperledger/fabric-orderer:latest   "orderer"                 9 seconds ago       Up 2 seconds               7050/tcp, 0.0.0.0:10050->10050/tcp           orderer4.example.com
+6143eb25fdaa        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"    9 seconds ago       Up 6 seconds               0.0.0.0:7054->7054/tcp                       ca_peerOrg1
+0a7afffcf75f        hyperledger/fabric-orderer:latest   "orderer"                 10 seconds ago      Up 5 seconds               7050/tcp, 0.0.0.0:11050->11050/tcp           orderer5.example.com
+b6cf7208978f        couchdb:2.3                         "tini -- /docker-ent…"    10 seconds ago      Up 2 seconds               4369/tcp, 9100/tcp, 0.0.0.0:7984->5984/tcp   couchdb2
+6265210d8cf3        hyperledger/fabric-orderer:latest   "orderer"                 10 seconds ago      Up 5 seconds               0.0.0.0:7050->7050/tcp                       orderer.example.com
+d38f670531d5        hyperledger/fabric-orderer:latest   "orderer"                 10 seconds ago      Up 4 seconds               7050/tcp, 0.0.0.0:8050->8050/tcp             orderer2.example.com
+9576b3268750        couchdb:2.3                         "tini -- /docker-ent…"    10 seconds ago      Up 4 seconds               4369/tcp, 9100/tcp, 0.0.0.0:5984->5984/tcp   couchdb0
+0a739678109c        hyperledger/fabric-orderer:latest   "orderer"                 10 seconds ago      Up 3 seconds               7050/tcp, 0.0.0.0:9050->9050/tcp             orderer3.example.com
+bf785ee0538e        couchdb:2.3                         "tini -- /docker-ent…"    10 seconds ago      Up 3 seconds               4369/tcp, 9100/tcp, 0.0.0.0:6984->5984/tcp   couchdb1
+d7c39275c6aa        hyperledger/fabric-ca:latest        "sh -c 'fabric-ca-se…"    10 seconds ago      Up 5 seconds               7054/tcp, 0.0.0.0:8054->8054/tcp             ca_peerOrg2
+c3e086692053        couchdb:2.3                         "tini -- /docker-ent…"    10 seconds ago      Up 6 seconds               4369/tcp, 9100/tcp, 0.0.0.0:8984->5984/tcp   couchdb3
+5440795d0a7a        hyperledger/fabric-ccenv:2.0        "/bin/sh -c '\nset -e…"   46 hours ago        Exited (0) 46 hours ago                                                 festive_maxwell
+d7ac25990dbc        hyperledger/fabric-ccenv:2.0        "/bin/sh -c '\nset -e…"   46 hours ago        Exited (0) 46 hours ago                                                 romantic_bhabha
+c0d140e93c7e        hyperledger/fabric-ccenv:2.0        "/bin/sh -c '\nset -e…"   46 hours ago        Exited (0) 46 hours ago                                                 sweet_knuth
+da8856d900c0        hyperledger/fabric-ccenv:2.0        "/bin/sh -c '\nset -e…"   46 hours ago        Exited (0) 46 hours ago                                                 xenodochial_rosalind
+7cc2afc9e171        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    5 weeks ago         Exited (137) 5 weeks ago                                                gifted_mirzakhani
+0d5f3572302e        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    5 weeks ago         Exited (137) 5 weeks ago                                                objective_spence
+929479c7dbf1        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    5 weeks ago         Exited (137) 5 weeks ago                                                suspicious_mclaren
+5154db5a47c2        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    5 weeks ago         Exited (0) 5 weeks ago                                                  silly_ride
+316de734931d        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    5 weeks ago         Exited (137) 5 weeks ago                                                confident_boyd
+d57a34e02d18        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    6 weeks ago         Exited (0) 6 weeks ago                                                  upbeat_turing
+8a211d74515d        hyperledger/fabric-nodeenv:2.0      "docker-entrypoint.s…"    6 weeks ago         Exited (0) 6 weeks ago                                                  festive_tesla
+Sleeping 15s to allow Raft cluster to complete booting
+
+ ____    _____      _      ____    _____ 
+/ ___|  |_   _|    / \    |  _ \  |_   _|
+\___ \    | |     / _ \   | |_) |   | |  
+ ___) |   | |    / ___ \  |  _ <    | |  
+|____/    |_|   /_/   \_\ |_| \_\   |_|  
+
+Build your first network (BYFN) end-to-end test
+
+Channel name : mychannel
+Creating channel...
+[34m2020-04-22 04:55:41.087 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:41.121 UTC [cli.common] readBlock -> INFO 002[0m Expect block, but got status: &{NOT_FOUND}
+[34m2020-04-22 04:55:41.136 UTC [channelCmd] InitCmdFactory -> INFO 003[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:41.339 UTC [cli.common] readBlock -> INFO 004[0m Expect block, but got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-22 04:55:41.343 UTC [channelCmd] InitCmdFactory -> INFO 005[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:41.545 UTC [cli.common] readBlock -> INFO 006[0m Expect block, but got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-22 04:55:41.548 UTC [channelCmd] InitCmdFactory -> INFO 007[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:41.750 UTC [cli.common] readBlock -> INFO 008[0m Expect block, but got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-22 04:55:41.753 UTC [channelCmd] InitCmdFactory -> INFO 009[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:41.955 UTC [cli.common] readBlock -> INFO 00a[0m Expect block, but got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-22 04:55:41.959 UTC [channelCmd] InitCmdFactory -> INFO 00b[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:42.161 UTC [cli.common] readBlock -> INFO 00c[0m Expect block, but got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-22 04:55:42.164 UTC [channelCmd] InitCmdFactory -> INFO 00d[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:42.385 UTC [cli.common] readBlock -> INFO 00e[0m Received block: 0
+===================== Channel 'mychannel' created ===================== 
+===================== Channel 'grade' created ===================== 
+
+Having all peers join the channel...
+[34m2020-04-22 04:55:42.726 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:42.850 UTC [channelCmd] executeJoin -> INFO 002[0m Successfully submitted proposal to join channel
+===================== peer0.org1 joined channel 'mychannel' ===================== 
+===================== peer0.org1 joined channel 'grade' ===================== 
+
+[34m2020-04-22 04:55:46.196 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:46.393 UTC [channelCmd] executeJoin -> INFO 002[0m Successfully submitted proposal to join channel
+===================== peer1.org1 joined channel 'mychannel' ===================== 
+===================== peer1.org1 joined channel 'grade' ===================== 
+
+[34m2020-04-22 04:55:49.753 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:49.866 UTC [channelCmd] executeJoin -> INFO 002[0m Successfully submitted proposal to join channel
+===================== peer0.org2 joined channel 'mychannel' ===================== 
+===================== peer0.org2 joined channel 'grade' ===================== 
+
+[34m2020-04-22 04:55:53.213 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-04-22 04:55:53.323 UTC [channelCmd] executeJoin -> INFO 002[0m Successfully submitted proposal to join channel
+===================== peer1.org2 joined channel 'mychannel' ===================== 
+===================== peer1.org2 joined channel 'grade' ===================== 
+
+Updating anchor peers for org1...
+[34m2020-04-22 04:55:56.619 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+Error: Invalid channel create transaction : mismatched channel ID mychannel != grade
+!!!!!!!!!!!!!!! Anchor peer update failed !!!!!!!!!!!!!!!!
+========= ERROR !!! FAILED to execute End-2-End Scenario ===========
+
+ERROR !!!! Test failed

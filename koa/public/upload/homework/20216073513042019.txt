@@ -1,0 +1,9 @@
+ sudo cryptogen generate --config=crypto-config.yaml --output ./crypto-config
+sudo configtxgen -profile Sample -outputBlock ./orderer.genesis.block -channelID Mychannel //channek小写
+ sudo configtxgen -profile Mychannel -outputCreateChannelTx ./mychannel.tx -channelID Mychannel
+sudo configtxgen -profile Mychannel -outputAnchorPeersUpdate ./Org1.tx -channelID Mychannel -asOrg Org1MSP
+
+
+
+
+创建通道：
